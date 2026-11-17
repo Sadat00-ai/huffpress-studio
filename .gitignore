@@ -1,0 +1,7 @@
+App/bin/
+App/obj/
+App/huffman.dll
+Native/*.obj
+Native/*.exe
+Native/test_huffman
+.vs/
